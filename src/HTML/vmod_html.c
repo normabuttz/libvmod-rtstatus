@@ -18,3 +18,7 @@ vmod_html(const struct vrt_ctx *ctx)
 	return (iter.vsb->s_buf);
 }
 
+char* rendered_string(a, b, json_path){
+	return "";
+}
+
